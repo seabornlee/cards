@@ -16,7 +16,6 @@ if __name__ == "__main__":
   recentfile=open('RECENT.md','w')
 
   for root, dirs, filenames in os.walk('./src/pages/posts'):
-    filenames = sorted(filenames, key=lambda x:float(re.findall("(\d+)",x)[0]), reverse=True)
     print(filenames)
 
   for index, name in enumerate(filenames):
