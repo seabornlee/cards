@@ -1,16 +1,16 @@
 {
-  "name": "weekly",
-  "description": "潮流周刊，记录工程师 Tw93 的不枯燥生活，每周一发布",
+  "name": "cards",
+  "description": "记录生活点滴",
   "type": "module",
-  "version": "0.2.0",
+  "version": "0.0.1",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/tw93/weekly.git"
+    "url": "https://github.com/seabornlee/cards.git"
   },
   "author": {
-    "name": "Tw93",
-    "email": "tw93@qq.com"
+    "name": "Seaborn",
+    "email": "seabornlee.cn@gmail.com"
   },
   "license": "MIT",
   "scripts": {

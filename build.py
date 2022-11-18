@@ -6,14 +6,14 @@ import datetime
 
 def fetch_ci_time(filePath):
     print("https://api.github.com/repos/tw93/weekly/commits?path=" + filePath + "&page=1&per_page=1")
-    entries = httpx.get("https://api.github.com/repos/tw93/weekly/commits?path=" + filePath + "&page=1&per_page=1")
+    entries = httpx.get("https://api.github.com/repos/seabornlee/cards/commits?path=" + filePath + "&page=1&per_page=1")
     ciTime= entries.json()[0]["commit"]["committer"]["date"].split("T")[0]
     return ciTime
     # return datetime.datetime.strptime(ciTime,"%Y-%m-%d")
 
 if __name__ == "__main__":
   readmefile=open('README.md','w')
-  readmefile.write("# 潮流周刊\n\n> 记录工程师 Tw93 的不枯燥生活，欢迎订阅，Fork 自用可见 [开发文档](https://github.com/tw93/weekly/blob/main/Deploy.md)，期待你玩得开心~\n\n")
+  readmefile.write("# 周记\n\n> 记录 Seaborn 的生活，欢迎订阅，Fork 自用可见 [开发文档](https://github.com/tw93/weekly/blob/main/Deploy.md)，期待你玩得开心~\n\n")
   recentfile=open('RECENT.md','w')
 
   for root, dirs, filenames in os.walk('./src/pages/posts'):
@@ -24,7 +24,7 @@ if __name__ == "__main__":
       if name.endswith('.md'):
         filepath = urllib.parse.quote(name)
         oldTitle = name.split('.md')[0]
-        url   = 'https://weekly.tw93.fun/posts/' + oldTitle
+        url   = 'https://weekly.seabornlee.cn/posts/' + oldTitle
         title = '第 ' + oldTitle.split('-')[0] + ' 期 - ' + oldTitle.split('-')[1];
         readmeMd= '* [{}]({})\n'.format(title, url)
         dateList = ["2022-10-10","2022-09-26","2022-09-12","2022-09-05","2022-08-29"]
