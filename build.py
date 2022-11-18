@@ -22,7 +22,7 @@ if __name__ == "__main__":
       if name.endswith('.md'):
         filepath = urllib.parse.quote(name)
         title = name.split('.md')[0]
-        url   = 'https://life.seabornlee.cn/posts/' + oldTitle
+        url   = 'https://life.seabornlee.cn/posts/' + title
         readmeMd= '* [{}]({})\n'.format(title, url)
         if index < 5 :
           modified = fetch_ci_time('/src/pages/posts/' + filepath)
