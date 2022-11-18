@@ -1,10 +1,6 @@
 name: Build README
 
-on:
-  push:
-  workflow_dispatch:
-  schedule:
-    - cron:  '0 0 * * *'
+on: push
 
 jobs:
   build:
@@ -35,9 +31,9 @@ jobs:
     - name: Commit and push if changed
       run: |-
         git diff
-        git config --global user.email "tw93@qq.com"
-        git config --global user.name "Tw93-bot"
+        git config --global user.email "seabornlee.cn@gmail.com"
+        git config --global user.name "Seaborn Lee"
         git pull
         git add -A
-        git commit -m "Updated content" || exit 0
+        git commit -m "Updated README & Recent" || exit 0
         git push
