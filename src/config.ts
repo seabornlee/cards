@@ -9,6 +9,6 @@ export const SITE = {
   blogPage: 'https://seabornlee.cn/',
   twitterId: 'seabornli',
   githubId: 'seabornlee',
-  repo: 'seabornlee/cards'
+  repo: 'seabornlee/life'
 };
 
