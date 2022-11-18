@@ -1,0 +1,1 @@
+- *ECrecover *computes the key that produced a signature
