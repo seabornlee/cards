@@ -45,14 +45,6 @@ function defaultLayoutPlugin() {
   };
 }
 
-// Copy images
-try {
-  fse.copySync('_image', 'dist/_image', { overwrite: true })
-  console.log('Copy images successfully!')
-} catch (err) {
-  console.error(err)
-}
-
 // https://astro.build/config
 export default defineConfig({
   integrations: [react(), tailwind()],
