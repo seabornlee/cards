@@ -2,6 +2,7 @@ import tailwind from '@astrojs/tailwind';
 import react from '@astrojs/react';
 import dayjs from 'dayjs';
 import fs from 'fs';
+import fse from 'fs-extra';
 import { defineConfig } from 'astro/config';
 import { parse } from 'node-html-parser';
 import { SITE } from './src/config';
@@ -42,6 +43,14 @@ function defaultLayoutPlugin() {
       file.data.astro.frontmatter.date = createDate;
     }
   };
+}
+
+// Copy images
+try {
+  fse.copySync('_image', 'dist/_image', { overwrite: true })
+  console.log('Copy images successfully!')
+} catch (err) {
+  console.error(err)
 }
 
 // https://astro.build/config
