@@ -116,7 +116,7 @@
 * [编译优化](https://life.seabornlee.cn/posts/编译优化)
 * [MVP](https://life.seabornlee.cn/posts/MVP)
 * [读《Effective Unit Testing》](https://life.seabornlee.cn/posts/读《Effective Unit Testing》)
-* [30 天挑战达成了，我为何还要坚持绘画练习](https://life.seabornlee.cn/posts/30 天挑战达成了，我为何还要坚持绘画练习)
+* [30 天挑战达成，为何还要坚持绘画](https://life.seabornlee.cn/posts/30 天挑战达成，为何还要坚持绘画)
 * [异步工作才是最适合程序员的协作方式](https://life.seabornlee.cn/posts/异步工作才是最适合程序员的协作方式)
 * [学习小组第二次会议](https://life.seabornlee.cn/posts/学习小组第二次会议)
 * [问题](https://life.seabornlee.cn/posts/问题)
