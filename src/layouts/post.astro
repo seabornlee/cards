@@ -35,7 +35,7 @@ let nextUrl = allPosts[Math.floor(Math.random() * allPosts.length)].url;
     <HeadCommon />
     <HeadSEO content={content} pageURL={currentUrl} />
     <meta name="generator" content={Astro.generator} />
-    <title>{SITE.title}{title}</title>
+    <title>{SITE.title} / {title}</title>
     <style>
       body {
         width: 100%;
@@ -178,7 +178,7 @@ let nextUrl = allPosts[Math.floor(Math.random() * allPosts.length)].url;
             class="flex justify-between md:flex-row flex-col mt-2 post-footer"
           >
             <div class="md:mt-0 mt-4">
-              {nextUrl ? <a href={nextUrl}>下一篇 |</a> : null}
+              {nextUrl ? <a href={nextUrl}>换一篇 |</a> : null}
               <a href="/">去首页</a>
             </div>
           </div>

@@ -11,6 +11,7 @@ export const SITE = {
   githubId: 'seabornlee',
   repo: 'seabornlee/life',
   gitcusRepoId: 'R_kgDOIddEwA',
-  gitcusCategoryId: 'DIC_kwDOIddEwM4CSol9'
+  gitcusCategoryId: 'DIC_kwDOIddEwM4CSol9',
+  googleAnalyticsId: 'G-YM222FHFEV'
 };
 
