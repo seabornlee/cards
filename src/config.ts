@@ -9,6 +9,8 @@ export const SITE = {
   blogPage: 'https://seabornlee.cn/',
   twitterId: 'seabornli',
   githubId: 'seabornlee',
-  repo: 'seabornlee/life'
+  repo: 'seabornlee/life',
+  gitcusRepoId: 'R_kgDOIddEwA',
+  gitcusCategoryId: 'DIC_kwDOIddEwM4CSol9'
 };
 

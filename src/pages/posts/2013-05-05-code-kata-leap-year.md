@@ -1,8 +1,3 @@
-Date: 2013-05-05 11:32
-Title: code kata - leap year（闰年）
-Url: /code-kata-leap-year
-Tags: code, tdd, IntelliJ IDEA
-
 #### 活动感想
 虽然接触TDD已有一段时间，但实践的并不多，所以理解也很浅。在此次活动中，很多同学是第一次接触TDD，也犯了普遍会犯的错误，比如先把所有测试代码全部写完才开始写实现代码，大粒度的测试和忘记重构等。网上也有很多关于TDD的争论，比如：
 [TDD并不是看上去的那么美](http://coolshell.cn/articles/3649.html)
@@ -54,7 +49,7 @@ common year and 2000 is an atypical leap year.
 	这是个技术活,我也不得要领。
 
 [姚若舟](http://weibo.com/yaoruozhou)
-    
+
     Joseph将我的视频加入到了[kata接力][5]活动中，我们针对一个方法命名进行了一些讨论。    
 ![讨论截图](/_image/2013-07-25/20-51-22.jpg)
 [5]: http://qing.blog.sina.com.cn/1887029092/7079c76433002zol.html?rnd=0.4563624414149672

@@ -1,8 +1,3 @@
-Status: private
-Title: 好事多磨-我是怎么进入ThoughtWroks的？
-Url: /post/how-could-i-get-in-thoughtworks
-Tag: ThoughtWorks面试,ThoughtWorks待遇
-
 _谨以此文记录我进入ThoughtWorks的全过程,包括心理活动_
 
 去年曾经参加过ThoughtWorks的面试并且以失败告终，详情见：[ThoughtWorks，你等着！](http://seabornlee.com/2012/02/06/thoughtworks-interview-experience/)
@@ -47,7 +42,7 @@ office interview，走完流程，说讨论一下第二天给结果
 7月16日 周二
 HR说他们比较纠结给不给offer，给出了具体的反馈和建议，让我再认真考虑一下，第二天再答复他们。下午我就写了一封邮件给hr，表明我的决心。
 [求职信](/post/thoughtworks-i-am-ready)
-    
+
 7月17日 周三
 HR说给offer了，细节第二天再聊。
 

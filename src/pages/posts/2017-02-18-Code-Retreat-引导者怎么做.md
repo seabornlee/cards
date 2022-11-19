@@ -1,6 +1,3 @@
----
-status: draft
----
 特别强调自我发现，我们远离工作压力，放慢节奏，去观察自己的编程习惯。
 每一轮的搭档切换有助于
 Coderetreat is a dynamic day with the specifics molded to the individual participants. There is a strong emphasis on self-discovery. The intense pair-swapping allows ideas to rapidly disseminate through the group. The frequent session reflections help with more complete internalization of lessons. Starting over allows experimentation without the baggage of previous experiments. To ensure the objectives of the coderetreat are met and that the participants get the maximum value out of the event, it is essential to have a facilitator for the day of coderetreat. The facilitator's role is to guide the participants through the various paths of experimentation, putting appropriate pressure at each stage of the day.
@@ -55,8 +52,8 @@ What if I mess up?
 
 It would take a lot to mess it up. The more experienced you are, the more insights you can share with the participants. But, think about this: you are getting a bunch of programmers together, pairing and practicing, with a person whose sole purpose is to highlight new thoughts and exercises to try. Sounds like a pretty awesome day.
 
- 
 
- 
+
+
 
 Note: Much thanks to Prakash Murthy for proof-reading this post.

@@ -1,9 +1,3 @@
-Date: 2013-08-02 10:10:07
-Title: VIM练习-录制和播放宏（macro）
-Url: /vim-practice-record-macro-and-play
-Tags: Vim
-Toc: no
-
 ![Vim Logo](/_image/2014-05-11/14-54-46.jpg)
 
 ### 关于宏
@@ -13,7 +7,7 @@ VIM用户可以使用宏来录制编辑动作过程，然后再播放以减少�
     qa：开始录制宏，并将宏保存到寄存器a中（你也可以把“a”想象成宏的名称），开始后会在状态栏显示“recording”
     q：停止录制
     @a：播放寄存器a中的宏
-    
+
 ### 练习一
 #### 编辑前
 ```

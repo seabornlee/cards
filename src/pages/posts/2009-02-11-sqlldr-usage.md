@@ -1,7 +1,3 @@
-Title: sqlldr用法
-Url: /2009/02/11/sqlldr-usage
-Category: 技术
-
 `sqlldr user/pwd@serviceName control=load.ctl`
 
 load.ctl内容如下：

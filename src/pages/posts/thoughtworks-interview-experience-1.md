@@ -1,9 +1,4 @@
-Date: 2012-02-06 22:31:03
-Title: ThoughtWorks，你等着！
-Url: /2012/02/06/thoughtworks-interview-experience/
-Tags: ThoughtWorks面试,成长,开源,阅读,Homework,总结，反思
-
-    小波，咱们的流程今天就告一段落了，你先回去，等过半年或者一年，觉得自己有比较大的进步后咱们再继续好吧。
+>小波，咱们的流程今天就告一段落了，你先回去，等过半年或者一年，觉得自己有比较大的进步后咱们再继续好吧。
 我承认，当我听到ThoughtWorks的HR讲出这句话的时候，我的脑子宕机了２秒钟。
 我是真的没有心理准备，我甚至没意识到刚刚经历了生死攸关的时刻，我的脑子里还想着代码如何重构。
 也许是我太轻敌了，或者说难听点是没有自知之明。
@@ -23,7 +18,7 @@ Tags: ThoughtWorks面试,成长,开源,阅读,Homework,总结，反思
     - 多看书
     - 多实践
     - 多参加社交活动
-    
+
 当时我真的觉得很冤，这不就是我一直在做的事吗？
 2011年是我开始关注成长的一年，这一年：
 
@@ -41,15 +36,10 @@ Tags: ThoughtWorks面试,成长,开源,阅读,Homework,总结，反思
 
 我也有在GitHub上做一些力所能及的事：
 
->- [Jinjiang/rich-game][1]
->- [gigix/ohfy][2]
->- [larrycai/sdcamp][3]
->- [dreamhead/1step][4]
-
-[1]:https://github.com/Jinjiang/rich-game
-[2]:https://github.com/gigix/ohfy
-[3]:https://github.com/larrycai/sdcamp
-[4]:https://github.com/dreamhead/1step
+>- [Jinjiang/rich-game](https://github.com/Jinjiang/rich-game)
+>- [gigix/ohfy](https://github.com/gigix/ohfy)
+>- [larrycai/sdcamp](https://github.com/larrycai/sdcamp)
+>- [dreamhead/1step](https://github.com/dreamhead/1step)
 
 虽然我很努力，但痛定思痛，却又觉得春梅姐说的不无道理：
 

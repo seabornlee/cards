@@ -1,10 +1,3 @@
----
-date: 2015-11-01 22:01
-status: public
-title: 第一次马拉松（南山半马）回顾
----
-
-
 ![](http://ww2.sinaimg.cn/large/61412e43gw1exnh99kroej20ih0ihdjg.jpg)
 
 虽然以前也跑过 20 公里以上，今天却是第一次参加马拉松赛事。幸运的是与一个朋友结伴，获得了许多指导。总结如下：

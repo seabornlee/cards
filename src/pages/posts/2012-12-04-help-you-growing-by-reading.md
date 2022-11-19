@@ -1,12 +1,3 @@
----
-title: 帮助你通过阅读获得成长
-author: SeabornLee
-layout: post
-permalink: /2012/12/04/help-you-growing-up-by-reading
-categories:
-  - 读书
----
-
 **核心价值**：帮助大家通过阅读得到成长
 
  

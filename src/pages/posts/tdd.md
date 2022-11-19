@@ -1,10 +1,3 @@
----
-date: 2014-11-26 12:20
-status: public
-title: 读《推行TDD的思考》有感
-toc: false
----
-
 读到同事张逸的一篇博文：[推行TDD的思考](http://agiledon.github.io/blog/2013/12/25/thought-about-applying-tdd/)，我也有感而发。
 我刚加入ThoughtWorks时，工作在一个合作开发的Android项目上，我们除了要TDD外，也要求并指导客户公司的开发人员进行TDD，项目开发了快半年，测试覆盖率稳定在90%以上。
 业余时间，我主持过GDCR和Coding Dojo等活动。不管在企业还是社区，我见到很多开发者对TDD的理解还停留在字面上。

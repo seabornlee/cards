@@ -1,9 +1,3 @@
----
-date: 2014-10-19 10:27
-status: public
-title: 升级Yosemite的常见问题解决办法
----
-
 ![](~/Screen Shot 2014-10-19 at 13.35.15.png)
 
 前两天Apple终于发布了稳定版的Yosemite，相信大家等了这么久，都第一时间开始升级了吧。

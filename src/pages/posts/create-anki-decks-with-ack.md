@@ -1,8 +1,3 @@
-Title: 初探awk魅力-用Anki帮我记忆git alias
-Date: 2014-05-10 23:14:58
-Tags: awk, oh-my-zsh, git
-Toc: no
-
 >Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.
 
 ![Anki](/_image/2014-05-11/22-47-48.jpg)

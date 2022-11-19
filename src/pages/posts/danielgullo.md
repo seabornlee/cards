@@ -1,7 +1,3 @@
-Date: 2014-03-23 23:30:20
-Title: 我的朋友Daniel Gullo
-
-
 ![我和Daniel Gullo在ScrumGathering北京2013](/我的相册/Scrum%20Gathering/2013-06-29%2016.21.16.jpg)
 
 Gullo是去年Scrum Gathering的keynote讲师，也是我的CSM老师。今天看到他的中国行感受，其中提到的打车被堵那段就是和我在一起，我想我也应该写点东西记录一下和他相处的感受。

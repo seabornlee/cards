@@ -1,7 +1,3 @@
-Title: Coding Style社区
-Date: 2014-05-25 17:37:54
-status: public
-
 ## 什么是Coding Style？
 >Code Style关注最终的代码，而Coding Style关注编码的过程。
 

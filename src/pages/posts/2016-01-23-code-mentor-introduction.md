@@ -1,10 +1,3 @@
----
-date: 2016-01-23 23:00
-status: public
-title: 练口语还能挣美刀，程序员专属的工作方式
-toc: false
----
-
 去年不知道什么时候知道的 [code mentor](https://www.codementor.io) 这个平台，从邮件落款看好像是一个华人做的。
 它的 Slogan 是「Instant 1:1 help from expert developers」。
 

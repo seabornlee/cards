@@ -1,12 +1,3 @@
----
-date: 2013-08-25 10:17
-status: public
-tags: thoughtworks,总结
-title: ThoughtWorks第一周所见所想
-toc: false
-url: /first-week-in-thoughtworks
----
-
 上周和老同事饯行吃坏了肚子，一直拉了一周，而且从北京拉到了深圳。
 刚和初次见面的同事吃完饭，一路上聊天，了解了一些公司的情况，以及客户和项目的情况。
 现在坐在酒店里，是时候总结ThoughtWorks的这一周了。
