@@ -1,8 +1,0 @@
-- #twitter
-- Try to visualize PRs status, see how much it influence pickup and review period.
-- **Before**
-	- ![image.png](../assets/image_1662520299628_0.png)
-- **After**
-	- ![image.png](../assets/image_1662520394785_0.png)
-	-
--
