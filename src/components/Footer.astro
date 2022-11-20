@@ -1,9 +1,3 @@
----
-import { SITE } from '@/config';
-
-const gaURL = 'https://www.googletagmanager.com/gtag/js?id=' + SITE.googleAnalyticsId;
----
-
 <script type="text/javascript" src="https://gw.alipayobjects.com/os/k/h3/heti-addon.min.js"></script>
 <script type="text/javascript" src="https://gw.alipayobjects.com/os/k/3j/lozad.min.js"></script>
 
@@ -33,15 +27,12 @@ const gaURL = 'https://www.googletagmanager.com/gtag/js?id=' + SITE.googleAnalyt
   });
 </script>
 
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src={gaURL} is:inline></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YM222FHFEV"></script>
 <script>
-  // @ts-nocheck
   window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', '{SITE.googleAnalyticsId}');
+
+  gtag('config', 'G-YM222FHFEV');
 </script>
