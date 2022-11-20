@@ -1,4 +1,5 @@
-![](./_image/2016-11-24-14-35-39.jpg)
+<img src='/_image/2016-11-24-14-35-39.jpg' />
+
 When talking about stand-up meeting, people probablely remember the 3 classic questions:
 * What I have done yesterday
 * What I am going to do today

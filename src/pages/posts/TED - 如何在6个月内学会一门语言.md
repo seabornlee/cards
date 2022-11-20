@@ -1,6 +1,9 @@
-https://www.youtube.com/watch?v=d0yGdNEWdn0
+<img src='https://img0.baidu.com/it/u=1394958055,2215599385&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667' />
 
-5 个原则：
+非常有影响力的一个 TED 演讲：
+<https://www.youtube.com/watch?v=d0yGdNEWdn0>
+
+## 5 个原则：
 - 聚焦对自己成长有价值的内容
 - 从第一天开始就把新语言作为工具来使用
 - 从开始理解部分信息时，就能进行无意识的学习
@@ -8,7 +11,7 @@ https://www.youtube.com/watch?v=d0yGdNEWdn0
 - 身心状态很重要
 
 
-7 个行动：
+## 7 个行动：
 - 大量地听
 - 结合肢体语言，理解意思最重要
 - 组合：名字，动词，形容词
@@ -23,7 +26,7 @@ https://www.youtube.com/watch?v=d0yGdNEWdn0
 - 复制表情
 - 直接与图像建立关联
 
-语言家长的规则：
+## 家长的规则：
 - 努力理解学习者的意思
 - 不纠正错误
 - 用正确的语言确认理解

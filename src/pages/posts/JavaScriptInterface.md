@@ -1,3 +1,5 @@
+<img src='https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/androidlogo.jpg' />	
+
 去年的某一天，收到客户的反馈说我们的产品在他的手机上不工作。
 看了一下日志发现是WebView中JavaScript调用的某个Java方法找不到，通过报错信息搜索后得知：
 

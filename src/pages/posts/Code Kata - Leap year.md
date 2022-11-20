@@ -1,10 +1,12 @@
-#### 活动感想
+<img src='https://img1.baidu.com/it/u=2853431674,2184016271&fm=253&fmt=auto&app=138&f=JPEG?w=807&h=500' />
+
 虽然接触TDD已有一段时间，但实践的并不多，所以理解也很浅。在此次活动中，很多同学是第一次接触TDD，也犯了普遍会犯的错误，比如先把所有测试代码全部写完才开始写实现代码，大粒度的测试和忘记重构等。网上也有很多关于TDD的争论，比如：
-[TDD并不是看上去的那么美](http://coolshell.cn/articles/3649.html)
-[敏捷质疑：TDD](http://www.blogjava.net/chelsea/archive/2008/07/13/214623.html)
+* [TDD并不是看上去的那么美](http://coolshell.cn/articles/3649.html)
+* [敏捷质疑：TDD](http://www.blogjava.net/chelsea/archive/2008/07/13/214623.html)
+
 如果没有TDD经验，很难看懂他们在说什么，也没有办法参与讨论。所以我们还是先实践吧。
 
-#### 需求
+## 需求
 >Write a function that returns true or false depending on
 whether its input integer is a leap year or not.
 >A leap year is defined as one that is divisible by 4,
@@ -14,10 +16,10 @@ also divisible by 400.
 is a typical leap year, whereas 1900 is an atypical
 common year and 2000 is an atypical leap year.
 
-#### 第一版视频
+## 第一版视频
 <embed src="http://www.tudou.com/v/kzZa8L2r1Vg/&resourceId=0_05_05_99&bid=05/v.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="480" height="400"></embed>
 
-#### 反馈
+## 反馈
 视频发出后收到了很多的反馈，下面挑一些比较典型的，感谢大家给予的关注的和反馈：
 [Daniel Teng](http://www.danielteng.com/)：
 
@@ -64,5 +66,5 @@ common year and 2000 is an atypical leap year.
 
 [BJDP第一次线下活动报道](http://www.ituring.com.cn/article/39938)
 
-网站：[www.bjdp.org](http://www.bjdp.org/)
-QQ群：235913915
+* 网站：[www.bjdp.org](http://www.bjdp.org/)
+* QQ群：235913915

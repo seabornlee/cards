@@ -1,15 +1,13 @@
-![Vim Logo](/_image/2014-05-11/14-54-46.jpg)
+<img src='/_image/2014-05-11/14-54-46.jpg' />
 
-### 关于宏
 VIM用户可以使用宏来录制编辑动作过程，然后再播放以减少重复操作。
 具体命令如下：
+1. qa：开始录制宏，并将宏保存到寄存器a中（你也可以把“a”想象成宏的名称），开始后会在状态栏显示“recording”
+1. q：停止录制
+1. @a：播放寄存器a中的宏
 
-    qa：开始录制宏，并将宏保存到寄存器a中（你也可以把“a”想象成宏的名称），开始后会在状态栏显示“recording”
-    q：停止录制
-    @a：播放寄存器a中的宏
-
-### 练习一
-#### 编辑前
+## 练习一
+### 编辑前
 ```
 # Appending text:
 The name "Vim" is an acronym for "Vi IMproved"
@@ -23,7 +21,7 @@ Trivia: Vim is a text editor released by Bram Moolenaar in 1991 for the Amiga
 Vim has a vi compatibility mode
 Vim has a vi compatibility mode but when not in this mode Vim has many enhancements over vi
 ```
-#### 编辑后
+### 编辑后
 
 将文件中的三对文本中的第二行都变得跟第一行一样。结果如下：
 ```
@@ -39,7 +37,7 @@ Vim is a text editor originally released by Bram Moolenaar in 1991 for the Amiga
 Vim has a vi compatibility mode
 Vim has a vi compatibility mode
 ```
-#### 操作解释
+### 操作解释
 >**qa 开始录制宏**
 j 下移一行
 yy 复制一行
@@ -52,8 +50,8 @@ dd 删除一行
 如果你这个比较简单，也没有什么实用价值，那就看下面这个吧。
 
 ---
-### 练习二
-#### 编辑前
+## 练习二
+### 编辑前
 ```
 Annette
 Warren
@@ -65,7 +63,7 @@ Stiller
 Dennis
 Schwartz
 ```
-#### 编辑后
+### 编辑后
 ```
 ALTER USER Annette IDENTIFIED BY 'Annette';
 ALTER USER Warren IDENTIFIED BY 'Warren';
@@ -77,7 +75,7 @@ ALTER USER Stiller IDENTIFIED BY 'Stiller';
 ALTER USER Dennis IDENTIFIED BY 'Dennis';
 ALTER USER Schwart IDENTIFIED BY 'Schwart';
 ```
-#### 操作解释
+### 操作解释
 >q a: 开始录制宏，存储到寄存器a中
 I “ALTER USER ”: 在行首插入“ALERT USER ”
 Esc w yw：复制光标后的用户名
