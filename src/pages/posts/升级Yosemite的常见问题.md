@@ -1,4 +1,8 @@
-![](~/Screen Shot 2014-10-19 at 13.35.15.png)
+---
+date: 2014/10/19
+---
+
+<img src='/_image/Screen Shot 2014-10-19 at 13.35.15.png' />	
 
 前两天Apple终于发布了稳定版的Yosemite，相信大家等了这么久，都第一时间开始升级了吧。
 最近总看到有朋友在问一些升级的问题，因为我早在Beta版的时候就已经升级，经历过一些问题，写出来希望能对大家有些帮助。
@@ -10,7 +14,7 @@
 升级后你会发现Eclipse，IntelliJ等应用都不能启动了，你会看到如下的错误。
 >To open "IntelliJ IDEA" you need to install the legacy Java SE 6 runtime.
 
-![](~/Screen Shot 2014-10-19 at 10.47.20.png)
+![](/_image/Screen Shot 2014-10-19 at 10.47.20.png)
 这是因为系统升级后JVM升级到了`1.7`，而应用指定了依赖`1.6*`的版本。
 这时你有两种选择：
 1 下载安装JDK6并指定JAVA_HOME
@@ -21,8 +25,6 @@
 1 用文本编辑器打开`/Applications/IntelliJ IDEA 13.app/Contents/Info.plist`
 2 搜索`JVMVersion`，将其值改为`1.7*`
 3 再次运行应用即可看到应用成功运行
-
-[点击查看演示](http://www.seabornlee.cn/view?intellij.gif)
 
 ### HAX is not working
 如果你使用Android Emulator，你可能会发现，启动时显示："HAX is not working...."

@@ -1,8 +1,14 @@
+---
+date: 2016/06/23
+pic: 'https://img0.baidu.com/it/u=2934691247,3148048694&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=291'
+---
+
+<img src='/_image/Capture-2022-11-20-212249.png' />
+
 去年不知道什么时候知道的 [code mentor](https://www.codementor.io) 这个平台，从邮件落款看好像是一个华人做的。
 它的 Slogan 是「Instant 1:1 help from expert developers」。
 
 在休陪产假期间，实在闲不住，我就上去体验了一下，收获很大。
-![](https://codingstyle-cn.b0.upaiyun.com/photo/2016/fbf9faa906db2757b2348e12f38676d7.png)
 
 ## 挣外快
 你可以明码标价，按分钟出售自己的时间，通常是 `$15/15mins`。也有一个小时几百刀的难题。
@@ -23,7 +29,6 @@
 
 ## 交朋友
 每次帮助客户解决问题后，他们都会不遗余力地表达感激，特别会夸人，也会加 Skype，Facebook 之类的：
-![](https://codingstyle-cn.b0.upaiyun.com/photo/2016/caec45fd13e9e62baa7eff8ac277f5ce.png)
 
 相比国内的各种众包平台，首先它更国际化，让你的技术不会落后。客户也很 Nice。
 它的玩法也很多，你可以成为某家公司的短期远程员工，也可以接小项目，也可以只解决具体问题，还可以录视频教程，做在线直播，还有每个月固定几个小时咨询的等。

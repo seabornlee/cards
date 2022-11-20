@@ -1,3 +1,8 @@
+---
+date: 2014-04-14 13:46:46
+tags: ['android', 'hack']
+---
+
 <img src='https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/androidlogo.jpg' />	
 
 去年的某一天，收到客户的反馈说我们的产品在他的手机上不工作。

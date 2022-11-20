@@ -1,3 +1,7 @@
+---
+date: '2016/01/04'
+---
+
 <img src='https://img2.baidu.com/it/u=147386698,3468113149&fm=253&fmt=auto&app=138&f=JPEG?w=362&h=270' />
 
 用 IntelliJ TDD FizzBuzz 的详细步骤：

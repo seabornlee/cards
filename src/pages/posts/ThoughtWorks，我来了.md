@@ -1,3 +1,7 @@
+---
+date: 2013/07/30
+---
+
 <img src='https://img0.baidu.com/it/u=2966508752,2646955792&fm=253&fmt=auto&app=138&f=JPEG?w=652&h=315' />
 
 谨以此文记录我进入ThoughtWorks的全过程,包括心理活动。

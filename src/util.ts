@@ -10,8 +10,6 @@ export const parseTitle = (currentPage: string) => {
 
 //获取当前文章的序号
 export const getIndex = (posts: any, currentPage: string) => {
-  // const oldTitle = decodeURIComponent(currentPage.split('/posts/')[1]);
-  // return parseInt(oldTitle.split('-')[0])
   const title = decodeURIComponent(currentPage.split('/posts/')[1]).replaceAll('/', '');
   return posts.findIndex((p) => p.url.indexOf(title) > -1);
 }
@@ -19,9 +17,6 @@ export const getIndex = (posts: any, currentPage: string) => {
 //排序所有的文章
 export const sortPosts = (allPosts: any) => {
   return allPosts.sort((a, b) => {
-    return (
-      parseInt(b.url.split('/posts/')[1].split('-')[0]) -
-      parseInt(a.url.split('/posts/')[1].split('-')[0])
-    );
+    return new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime();
   });
 }
