@@ -1,5 +1,5 @@
-* [企业为什么需要一支技术教练团队](https://life.seabornlee.cn/posts/企业为什么需要一支技术教练团队) - 2022-11-18
-* [How to get value from stand-up meeting continuously](https://life.seabornlee.cn/posts/How to get value from stand-up meeting continuously) - 2022-11-20
+* [企业为什么需要一支技术教练团队](https://life.seabornlee.cn/posts/企业为什么需要一支技术教练团队) - 2022-11-20
 * [这两本书改变了我的职业生涯，推荐给你](https://life.seabornlee.cn/posts/这两本书改变了我的职业生涯，推荐给你) - 2022-11-18
 * [技术教练团队对于企业的意义](https://life.seabornlee.cn/posts/技术教练团队对于企业的意义) - 2022-11-18
 * [简历和面试技巧](https://life.seabornlee.cn/posts/简历和面试技巧) - 2022-11-19
+* [如何可视化需求状态和团队状态？](https://life.seabornlee.cn/posts/如何可视化需求状态和团队状态？) - 2022-11-20
