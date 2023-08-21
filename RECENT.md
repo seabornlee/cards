@@ -1,5 +1,5 @@
-* [爱的五种语言 - 如何更好地表达爱和接受爱](https://life.seabornlee.cn/posts/爱的五种语言 - 如何更好地表达爱和接受爱) - 2022-11-18
-* [如何改变习惯](https://life.seabornlee.cn/posts/如何改变习惯) - 2022-11-20
-* [彩色幼儿园事件](https://life.seabornlee.cn/posts/彩色幼儿园事件) - 2022-11-19
-* [培养习惯，我的三条心得](https://life.seabornlee.cn/posts/培养习惯，我的三条心得) - 2022-11-20
-* [如何完成认知升级和知识变现](https://life.seabornlee.cn/posts/如何完成认知升级和知识变现) - 2022-11-20
+* [我如何读书 2](https://life.seabornlee.cn/posts/我如何读书 2) - 2022-11-19
+* [sqlite数据库迁移的几种办法](https://life.seabornlee.cn/posts/sqlite数据库迁移的几种办法) - 2022-11-20
+* [Code Kata - Leap year](https://life.seabornlee.cn/posts/Code Kata - Leap year) - 2022-11-20
+* [异步工作才是最适合程序员的协作方式](https://life.seabornlee.cn/posts/异步工作才是最适合程序员的协作方式) - 2022-11-18
+* [火车](https://life.seabornlee.cn/posts/火车) - 2022-11-18
