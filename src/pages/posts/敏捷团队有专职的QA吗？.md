@@ -1,21 +1,31 @@
-## 刘炜问
+---
+date: "2020-01-28"
+---
+
+<img src="/_image/image_2023-11-05-23-58-22.png" alt="">
+
 敏捷团队有专职的 QA 吗？测试工作整体是怎么安排的？
 
-## 小波老嬉答
+## 答
+
 QA 是 Quality Assurance（质量保证）的缩写，我认为回答这两个问题之前，我们要先搞清楚：
->敏捷团队中，谁对质量负责？质量是如何保证的？
+
+> 敏捷团队中，谁对质量负责？质量是如何保证的？
 
 我的答案是：**所有人对所有事负责，质量内建在交付过程中。**
 
 ### 所有人对所有事负责
+
 企业导入敏捷，常用的两个框架是 Scrum 和 XP（极限编程），我们来看看它们是如下描述团队结构的。
 Scrum 中对团队的描述如下：
+
 > Development Teams are cross-functional, with all the skills as a team necessary to create a product Increment;
 > Scrum recognizes no titles for Development Team members, regardless of the work being performed by the person;
 > Individual Development Team members may have specialized skills and areas of focus, but accountability belongs to the Development Team as a whole.
 
 XP 中的 Whole Team（完整团队）描述如下：
->The best teams have no specialists, only general contributors with special skills.
+
+> The best teams have no specialists, only general contributors with special skills.
 
 意思是说，团队需要具备端到端交付软件的各种技能，比如需求定义，分析，体验设计，编码，测试，运维等。但并不是那么职责分明，而是整个团队拥有集体所有权，责任共担。
 为什么要这么做呢？有明确的分工不是效率更高吗？是的，每个人干自己熟悉的事，个人效率是更高，但团队的产出却不是最大的。
@@ -30,13 +40,16 @@ XP 中的 Whole Team（完整团队）描述如下：
 **最好的团队是每个人有自己的专长，又愿意开放地学习上下游的其他技能，勇于拓展自己的舒适区。这就是 Scrum 价值观中「开放」，XP 价值观中「勇气」的体现。**
 
 ### 质量内建在交付过程中
+
 当测试成为软件交付的瓶颈时，传统的做法是增加测试资源，但这难免有点儿亡羊补牢的意思。我们应该系统性地解决问题，让问题不再出现，而不是在问题出现后再去修复。可能的方案有：
-* 增加测试资源：加人或加班
-* 减少测试工作量：提高上游交付的质量
-* 提高测试效率：提升个人能力或使用自动化工具
+
+-   增加测试资源：加人或加班
+-   减少测试工作量：提高上游交付的质量
+-   提高测试效率：提升个人能力或使用自动化工具
 
 通过前文说的模糊分工，实现了测试资源的动态扩展。通过引入 BDD，TDD，重构，结对编程，Code Review，持续集成等实践，建立单元测试，集成测试，端到端测试的自动化测试体系，提高上游的交付质量。通过培训和引入新工具，提升效率。
 
 ## 回到题主的问题上
+
 敏捷团队有专职的 QA 吗？测试工作整体是怎么安排的？
 答：通常会有一个 QA 专家。TA 会参与计划会议，充分理解需求，编写自动化验收脚本。在 Dev 领取一个需求前，BA，QA 和 Dev 一起对需求和验收条件达成共识。在 Dev 开发完成进入测试阶段前，跟 BA 一起在 Dev 的机器上快速验收，有问题立即处理。在 UAT 环境上做探索测试，性能测试，压力测试等。
