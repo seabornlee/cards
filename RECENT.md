@@ -1,5 +1,5 @@
-* [我如何读书 2](https://life.seabornlee.cn/posts/我如何读书 2) - 2022-11-19
-* [sqlite数据库迁移的几种办法](https://life.seabornlee.cn/posts/sqlite数据库迁移的几种办法) - 2022-11-20
-* [Code Kata - Leap year](https://life.seabornlee.cn/posts/Code Kata - Leap year) - 2022-11-20
-* [异步工作才是最适合程序员的协作方式](https://life.seabornlee.cn/posts/异步工作才是最适合程序员的协作方式) - 2022-11-18
-* [火车](https://life.seabornlee.cn/posts/火车) - 2022-11-18
+* [带孩子旅居大理，一年要花多少钱？](https://life.seabornlee.cn/posts/带孩子旅居大理，一年要花多少钱？) - 2023-11-09
+* [别问为什么](https://life.seabornlee.cn/posts/别问为什么) - 2022-11-20
+* [培养习惯，我的三条心得](https://life.seabornlee.cn/posts/培养习惯，我的三条心得) - 2023-11-05
+* [修辞学](https://life.seabornlee.cn/posts/修辞学) - 2022-11-20
+* [学习小组第二次会议](https://life.seabornlee.cn/posts/学习小组第二次会议) - 2023-11-05
